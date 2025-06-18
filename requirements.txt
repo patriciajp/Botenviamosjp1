@@ -2,5 +2,6 @@ python-telegram-bot==20.6
 aiohttp
 pytz
 telegram
-flask
+flask==2.3.3
+nest_asyncio==1.6.0
 nest-asyncio
